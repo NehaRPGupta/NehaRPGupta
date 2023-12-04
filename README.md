@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NehaRPGupta
-- 👀 I’m interested in web design/ web development
-- 🌱 I’m currently learning web development
+- 👀 I’m Full Stack Developer
 - 💞️ I’m looking to collaborate on internship/work
 - 📫 How to reach me via e-mail(ng992602@gmail.com)
 
