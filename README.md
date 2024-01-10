@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NehaRPGupta
 - 👀 I’m Full Stack Developer
 - 💞️ I’m looking to collaborate on internship/work
-- 📫 How to reach me via e-mail(ng992602@gmail.com)
+- 📫 How to reach me via e-mail(contact@findnehagupta.com)
 
 <!---
 NehaRPGupta/NehaRPGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
